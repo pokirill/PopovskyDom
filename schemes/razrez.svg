@@ -5,22 +5,22 @@
 <line x1="87.5" y1="560.0" x2="942.5" y2="560.0" stroke="#27ae60" stroke-width="2" stroke-dasharray="8,4"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#27ae60" text-anchor="start" dominant-baseline="middle"><tspan x="884.0" y="544.2">земля ≈ +1,0</tspan></text>
 <polygon points="155.0,605.0 445.2,605.0 445.2,470.0 155.0,470.0" stroke="#8a8f98" fill="#eef0f3" stroke-width="2" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="300.1" y="525.5">Уровень 1 (цоколь)</tspan><tspan x="300.1" y="537.5">h≈2,7 черн. / 2,5–2,6 чист.</tspan><tspan x="300.1" y="549.5">пол −0,7 м → ниже земли ≈1,0</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="300.1" y="521.0">Уровень 1 (цоколь)</tspan><tspan x="300.1" y="533.0">h≈2,7 черн. / 2,5–2,6 чист.</tspan><tspan x="300.1" y="545.0">пол −0,7 м → ниже земли ≈1,0</tspan></text>
 <polygon points="155.0,470.0 445.2,470.0 445.2,330.5 155.0,330.5" stroke="#8a8f98" fill="#eef0f3" stroke-width="2" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="300.1" y="394.2">Уровень 2</tspan><tspan x="300.1" y="406.2">(кирпич, h=2,80)</tspan></text>
-<polygon points="445.2,605.0 670.2,605.0 670.2,330.5 445.2,330.5" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="557.8" y="396.5">второй свет</tspan><tspan x="557.8" y="408.5">≈5,5–6 м</tspan></text>
-<polygon points="445.2,470.0 526.2,470.0 526.2,458.8 445.2,458.8" stroke="#d35400" fill="#d35400" stroke-width="1" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="485.8" y="443.0">библиотека</tspan></text>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="557.8" y="546.5">пристройка: кухня-гостиная</tspan></text>
-<polygon points="132.5,330.5 692.8,330.5 412.6,168.5" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="412.6" y="272.0">Уровень 3 — мансарда (спальни)</tspan></text>
-<polygon points="670.2,566.8 769.2,566.8 769.2,560.0 670.2,560.0" stroke="#27ae60" fill="#d5f5e3" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="start" dominant-baseline="middle"><tspan x="778.2" y="564.5">терраса</tspan></text>
+<polygon points="445.2,560.0 625.2,560.0 625.2,330.5 445.2,330.5" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="535.2" y="396.5">второй свет</tspan><tspan x="535.2" y="408.5">≈5 м</tspan></text>
+<polygon points="445.2,438.5 526.2,438.5 526.2,427.2 445.2,427.2" stroke="#d35400" fill="none" stroke-width="1" stroke-dasharray="3,2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="485.8" y="413.8">опция: галерея +3,7</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="535.2" y="533.0">пристройка: пол = земля (+1,0)</tspan></text>
+<polygon points="132.5,330.5 647.8,330.5 390.1,168.5" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="390.1" y="272.0">Уровень 3 — мансарда (спальни)</tspan></text>
+<polygon points="625.2,566.8 724.2,566.8 724.2,560.0 625.2,560.0" stroke="#27ae60" fill="#d5f5e3" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="start" dominant-baseline="middle"><tspan x="733.2" y="564.5">терраса</tspan></text>
 <polygon points="155.0,636.5 445.2,636.5 445.2,605.0 155.0,605.0" stroke="#c0392b" fill="#fadbd8" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#c0392b" text-anchor="middle" dominant-baseline="middle"><tspan x="300.1" y="620.8">подводка/усиление фундамента ФБС?</tspan></text>
-<polygon points="445.2,632.0 670.2,632.0 670.2,605.0 445.2,605.0" stroke="#d35400" fill="none" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="557.8" y="618.5">новый фундамент + гидроизоляция</tspan></text>
+<polygon points="445.2,582.5 625.2,582.5 625.2,560.0 445.2,560.0" stroke="#d35400" fill="none" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="535.2" y="571.2">плита / МЗЛФ</tspan></text>
 <line x1="92.0" y1="605.0" x2="155.0" y2="605.0" stroke="#566573" stroke-width="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="end" dominant-baseline="middle"><tspan x="87.5" y="605.0">±0,00</tspan></text>
 <line x1="92.0" y1="470.0" x2="155.0" y2="470.0" stroke="#566573" stroke-width="1"/>
@@ -30,8 +30,8 @@
 <line x1="92.0" y1="168.5" x2="155.0" y2="168.5" stroke="#566573" stroke-width="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="end" dominant-baseline="middle"><tspan x="87.5" y="168.5">≈+9,7 конёк</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="155.0" y="663.5">ЮГ (проезд)</tspan></text>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="769.2" y="663.5">СЕВЕР (сад)</tspan></text>
-<text x="110" y="745" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">Сейчас пол цоколя ниже земли на 0,3 м. После понижения на 0,7 м — ниже на ≈1,0 м. Выход из пристройки в сад «в уровень»</text>
-<text x="110" y="765" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">требует понизить террасу/сад у дома на ≈1 м (подпорные стенки, дренаж) или пол пристройки выше пола цоколя (ступени).</text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="724.2" y="663.5">СЕВЕР (сад)</tspan></text>
+<text x="110" y="745" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">v0.2: цоколь углубляем (пол ≈1,0 ниже земли), пристройка — в уровень земли, между ними ≈6 ступеней.</text>
+<text x="110" y="765" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">Галерея над кухней на уровне пола ур.2 даст под собой ≈1,7 м — поэтому только как опция на +0,7 (4 ступени вверх) или без неё.</text>
 <text x="110" y="785" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">Высота до конька по ПЗЗ ограничена (для ИЖС обычно ≤20 м и ≤3 надземных этажа) — запас есть.</text>
 </svg>

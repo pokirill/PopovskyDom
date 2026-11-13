@@ -2,29 +2,29 @@
 <rect width="100%" height="100%" fill="white"/>
 <text x="70" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Уровень 3 — СТАЛО</text>
 <text x="70" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">мансарда — спальный этаж</text>
-<polygon points="70.0,677.5 461.5,677.5 461.5,162.3 70.0,162.3" stroke="#d35400" fill="#fdebd0" stroke-width="3" fill-opacity="1"/>
-<line x1="265.8" y1="677.5" x2="265.8" y2="162.3" stroke="#d35400" stroke-width="1" stroke-dasharray="10,5"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="start" dominant-baseline="middle"><tspan x="277.0" y="189.2">конёк</tspan></text>
+<polygon points="70.0,677.5 461.5,677.5 461.5,207.3 70.0,207.3" stroke="#d35400" fill="#fdebd0" stroke-width="3" fill-opacity="1"/>
+<line x1="265.8" y1="677.5" x2="265.8" y2="207.3" stroke="#d35400" stroke-width="1" stroke-dasharray="10,5"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="start" dominant-baseline="middle"><tspan x="277.0" y="234.3">конёк</tspan></text>
 <polygon points="83.5,664.0 259.0,664.0 259.0,484.0 83.5,484.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="171.2" y="562.0">спальня 1</tspan><tspan x="171.2" y="574.0">(родители)</tspan><tspan x="171.2" y="586.0">+ гардероб</tspan></text>
 <polygon points="272.5,664.0 448.0,664.0 448.0,484.0 272.5,484.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="360.2" y="568.0">спальня 2</tspan><tspan x="360.2" y="580.0">+ гардероб</tspan></text>
 <polygon points="254.5,475.0 349.0,475.0 349.0,394.0 254.5,394.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="301.8" y="434.5">лестница</tspan></text>
-<polygon points="83.5,475.0 245.5,475.0 245.5,349.0 83.5,349.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="164.5" y="412.0">с/у 1</tspan></text>
-<polygon points="358.0,475.0 448.0,475.0 448.0,349.0 358.0,349.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="403.0" y="412.0">с/у 2</tspan></text>
-<polygon points="83.5,340.0 245.5,340.0 245.5,175.8 83.5,175.8" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="164.5" y="247.0">гардеробная-</tspan><tspan x="164.5" y="259.0">постирочная</tspan><tspan x="164.5" y="271.0">(общая)</tspan></text>
-<polygon points="254.5,340.0 448.0,340.0 448.0,175.8 254.5,175.8" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="351.2" y="247.0">спальня 3</tspan><tspan x="351.2" y="259.0">(сестра с мужем)</tspan><tspan x="351.2" y="271.0">+ гардероб</tspan></text>
+<polygon points="83.5,475.0 245.5,475.0 245.5,362.5 83.5,362.5" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="164.5" y="418.8">с/у (душ)</tspan></text>
+<polygon points="358.0,475.0 448.0,475.0 448.0,362.5 358.0,362.5" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="403.0" y="413.4">гардеробная-</tspan><tspan x="403.0" y="424.2">постирочная</tspan></text>
+<polygon points="83.5,353.5 322.0,353.5 322.0,220.7 83.5,220.7" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="202.8" y="274.0">спальня 3</tspan><tspan x="202.8" y="286.0">(сестра с мужем)</tspan><tspan x="202.8" y="298.0">+ гардероб</tspan></text>
+<polygon points="331.0,353.5 448.0,353.5 448.0,220.7 331.0,220.7" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="389.5" y="280.6">холл /</tspan><tspan x="389.5" y="291.4">хранение</tspan></text>
 <polygon points="70.0,677.5 370.1,677.5 370.1,624.0 461.5,624.0 461.5,387.2 70.0,387.2" stroke="#8a8f98" fill="none" stroke-width="1.5" stroke-dasharray="4,4" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="718.0">мансарда над домом и пристройкой; колено 1,2–1,5 м — уточнит архитектор</tspan></text>
-<line x1="43.0" y1="677.5" x2="43.0" y2="162.3" stroke="#566573" stroke-width="1"/>
+<line x1="43.0" y1="677.5" x2="43.0" y2="207.3" stroke="#566573" stroke-width="1"/>
 <line x1="36.2" y1="677.5" x2="49.8" y2="677.5" stroke="#566573" stroke-width="1"/>
-<line x1="36.2" y1="162.3" x2="49.8" y2="162.3" stroke="#566573" stroke-width="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 27.2 419.9)"><tspan x="27.2" y="419.9">≈11,45</tspan></text>
+<line x1="36.2" y1="207.3" x2="49.8" y2="207.3" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 27.2 442.4)"><tspan x="27.2" y="442.4">≈10,45</tspan></text>
 <rect x="70" y="767.5" width="22" height="14" stroke="#8a8f98" fill="#eef0f3" stroke-width="2"/>
 <text x="100" y="779.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">существующие стены (оставляем)</text>
 <rect x="70" y="789.5" width="22" height="14" stroke="#d35400" fill="#fdebd0" stroke-width="2"/>
