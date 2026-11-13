@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="762" viewBox="0 0 590 762">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Уровень 2 — БЫЛО</text>
+<text x="70" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">1 этаж (лит. А и веранда а), h=2,80</text>
+<polygon points="70.0,632.5 370.1,632.5 370.1,579.0 461.5,579.0 461.5,342.2 70.0,342.2" stroke="#8a8f98" fill="#eef0f3" stroke-width="3" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="673.0">стены — кирпич; веранда «а» — кирпич, холодная</tspan></text>
+<polygon points="87.1,615.4 245.1,615.4 245.1,365.2 87.1,365.2" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="165.8" y="474.1">1</tspan><tspan x="165.8" y="488.5">комната</tspan><tspan x="165.8" y="502.9">19,5 м²</tspan></text>
+<polygon points="250.9,615.4 348.6,615.4 348.6,445.3 250.9,445.3" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="299.5" y="511.3">2</tspan><tspan x="299.5" y="524.5">кухня</tspan><tspan x="299.5" y="537.7">7,6 м²</tspan></text>
+<polygon points="263.5,605.5 281.5,605.5 281.5,538.0 263.5,538.0" stroke="#c0392b" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#c0392b" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 272.5 571.8)"><tspan x="272.5" y="571.8">печь</tspan></text>
+<polygon points="250.9,440.8 344.1,440.8 344.1,362.5 250.9,362.5" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="297.2" y="401.6">3 · 3,6 м²</tspan></text>
+<polygon points="375.6,573.5 456.1,573.5 456.1,348.6 375.6,348.6" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="415.6" y="497.5">4</tspan><tspan x="415.6" y="509.5">веранда</tspan><tspan x="415.6" y="521.5">9,6 м²</tspan><tspan x="415.6" y="533.5">(без отоп.)</tspan></text>
+<line x1="378.2" y1="457.0" x2="452.5" y2="457.0" stroke="#8a8f98" stroke-width="1"/>
+<line x1="378.2" y1="441.2" x2="452.5" y2="441.2" stroke="#8a8f98" stroke-width="1"/>
+<line x1="378.2" y1="425.5" x2="452.5" y2="425.5" stroke="#8a8f98" stroke-width="1"/>
+<line x1="378.2" y1="409.8" x2="452.5" y2="409.8" stroke="#8a8f98" stroke-width="1"/>
+<line x1="378.2" y1="394.0" x2="452.5" y2="394.0" stroke="#8a8f98" stroke-width="1"/>
+<line x1="378.2" y1="378.2" x2="452.5" y2="378.2" stroke="#8a8f98" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="415.6" y="362.5">лестница</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="416.5" y="607.8">вход</tspan></text>
+<line x1="70.0" y1="310.8" x2="461.5" y2="310.8" stroke="#566573" stroke-width="1"/>
+<line x1="70.0" y1="317.5" x2="70.0" y2="304.0" stroke="#566573" stroke-width="1"/>
+<line x1="461.5" y1="317.5" x2="461.5" y2="304.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="324.2">8,70</tspan></text>
+<line x1="43.0" y1="632.5" x2="43.0" y2="342.2" stroke="#566573" stroke-width="1"/>
+<line x1="36.2" y1="632.5" x2="49.8" y2="632.5" stroke="#566573" stroke-width="1"/>
+<line x1="36.2" y1="342.2" x2="49.8" y2="342.2" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 27.2 487.4)"><tspan x="27.2" y="487.4">6,45</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="713.5">Итого этаж: 40,3 м² (А: 30,7 + веранда 9,6)</tspan></text>
+</svg>

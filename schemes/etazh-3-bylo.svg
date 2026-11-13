@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="762" viewBox="0 0 590 762">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Уровень 3 — БЫЛО</text>
+<text x="70" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">мансарда (лит. А2), h=2,52</text>
+<polygon points="70.0,632.5 370.1,632.5 370.1,342.2 70.0,342.2" stroke="#8a8f98" fill="none" stroke-width="1.5" stroke-dasharray="6,4" fill-opacity="1"/>
+<polygon points="92.5,623.5 299.5,623.5 299.5,344.5 92.5,344.5" stroke="#8a8f98" fill="#eef0f3" stroke-width="3" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="196.0" y="455.2">5</tspan><tspan x="196.0" y="469.6">мансарда</tspan><tspan x="196.0" y="484.0">25,7 м²</tspan><tspan x="196.0" y="498.4">4,32×5,99</tspan><tspan x="196.0" y="512.8">h=2,52</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="673.0">стены — каркасно-обшивные (под снос)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="713.5">Итого: 25,7 м². Общая площадь дома по техпаспорту — 103,3 м²</tspan></text>
+</svg>

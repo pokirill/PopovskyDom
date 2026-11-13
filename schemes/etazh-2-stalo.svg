@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="658" height="898" viewBox="0 0 658 898">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Уровень 2 — СТАЛО</text>
+<text x="70" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">бывший 1 этаж + второй свет</text>
+<polygon points="70.0,677.5 370.1,677.5 370.1,624.0 461.5,624.0 461.5,387.2 70.0,387.2" stroke="#8a8f98" fill="#eef0f3" stroke-width="3" fill-opacity="1"/>
+<polygon points="70.0,387.2 461.5,387.2 461.5,162.3 70.0,162.3" stroke="#d35400" fill="#fef5e7" stroke-width="3" stroke-dasharray="8,4" fill-opacity="1"/>
+<polygon points="70.0,387.2 151.0,387.2 151.0,162.3 70.0,162.3" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 110.5 274.8)"><tspan x="110.5" y="269.4">библиотека / место для чтения</tspan><tspan x="110.5" y="280.2">(над кухней)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="304.0" y="251.3">ВТОРОЙ СВЕТ</tspan><tspan x="304.0" y="265.8">(потолок ≈5–6 м</tspan><tspan x="304.0" y="280.1">от пола кухни)</tspan></text>
+<line x1="151.0" y1="387.2" x2="151.0" y2="162.3" stroke="#d35400" stroke-width="3"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 166.8 207.3)"><tspan x="166.8" y="207.3">ограждение</tspan></text>
+<polygon points="87.1,660.4 245.1,660.4 245.1,410.2 87.1,410.2" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="165.8" y="513.7">КАБИНЕТ /</tspan><tspan x="165.8" y="526.9">гостевая</tspan><tspan x="165.8" y="540.1">(жилая комната)</tspan><tspan x="165.8" y="553.3">≈19,5 м²</tspan></text>
+<polygon points="250.9,660.4 348.6,660.4 348.6,515.5 250.9,515.5" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="299.5" y="581.5">холл /</tspan><tspan x="299.5" y="593.5">прихожая</tspan></text>
+<polygon points="250.9,511.0 348.6,511.0 348.6,407.5 250.9,407.5" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
+<line x1="254.5" y1="502.0" x2="344.5" y2="502.0" stroke="#d35400" stroke-width="1"/>
+<line x1="254.5" y1="486.2" x2="344.5" y2="486.2" stroke="#d35400" stroke-width="1"/>
+<line x1="254.5" y1="470.5" x2="344.5" y2="470.5" stroke="#d35400" stroke-width="1"/>
+<line x1="254.5" y1="454.8" x2="344.5" y2="454.8" stroke="#d35400" stroke-width="1"/>
+<line x1="254.5" y1="439.0" x2="344.5" y2="439.0" stroke="#d35400" stroke-width="1"/>
+<line x1="254.5" y1="423.2" x2="344.5" y2="423.2" stroke="#d35400" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="299.5" y="414.2">лестница ↕</tspan></text>
+<polygon points="375.6,515.5 456.1,515.5 456.1,393.6 375.6,393.6" stroke="#d35400" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="415.6" y="454.8">ПАРНАЯ</tspan></text>
+<polygon points="375.6,672.1 456.1,672.1 456.1,520.0 375.6,520.0" stroke="#d35400" fill="none" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="415.6" y="590.5">душ +</tspan><tspan x="415.6" y="602.5">WC</tspan></text>
+<line x1="461.5" y1="650.5" x2="461.5" y2="605.5" stroke="white" stroke-width="6"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#2e86c1" text-anchor="middle" dominant-baseline="middle"><tspan x="502.0" y="622.6">выход</tspan><tspan x="502.0" y="633.4">под навес →</tspan></text>
+<polygon points="461.5,686.5 551.5,686.5 551.5,162.3 461.5,162.3" stroke="#27ae60" fill="none" stroke-width="2" stroke-dasharray="6,4" fill-opacity="1"/>
+<polygon points="461.5,533.5 551.5,533.5 551.5,353.5 461.5,353.5" stroke="#2e86c1" fill="#d6eaf8" stroke-width="2" stroke-dasharray="5,3" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#2e86c1" text-anchor="middle" dominant-baseline="middle"><tspan x="506.5" y="432.7">тамбур-</tspan><tspan x="506.5" y="443.5">прихожая</tspan><tspan x="506.5" y="454.3">(позже)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="506.5" y="272.5">навес</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#c0392b" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="718.0">печь демонтировать; веранда «а» → тёплая (душ+WC, парная)</tspan></text>
+<rect x="70" y="767.5" width="22" height="14" stroke="#8a8f98" fill="#eef0f3" stroke-width="2"/>
+<text x="100" y="779.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">существующие стены (оставляем)</text>
+<rect x="70" y="789.5" width="22" height="14" stroke="#d35400" fill="#fdebd0" stroke-width="2"/>
+<text x="100" y="801.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">новое / перепланировка</text>
+<rect x="70" y="811.5" width="22" height="14" stroke="#2e86c1" fill="#d6eaf8" stroke-width="2" stroke-dasharray="5,3"/>
+<text x="100" y="823.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">позже, после регистрации</text>
+<rect x="70" y="833.5" width="22" height="14" stroke="#c0392b" fill="#fadbd8" stroke-width="2"/>
+<text x="100" y="845.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">демонтаж / требует проверки</text>
+</svg>

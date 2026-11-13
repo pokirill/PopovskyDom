@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="1150" viewBox="0 0 530 1150">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Генплан участка — БЫЛО</text>
+<text x="70" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">по техпаспорту МОБТИ 2016</text>
+<polygon points="70.0,850.0 400.0,850.0 436.0,131.0 114.0,89.0" stroke="#1c2833" fill="white" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="235.0" y="874.0">проезд · 16,50</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="276.0" y="84.0">16,50</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 46.0 470.0)"><tspan x="46.0" y="470.0">уч. 25 · 38,09</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(90 462.0 490.0)"><tspan x="462.0" y="490.0">уч. 27 · 36,00</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="start" dominant-baseline="middle"><tspan x="82.0" y="836.0">въезд</tspan></text>
+<polygon points="174.0,734.0 307.4,734.0 307.4,710.2 348.0,710.2 348.0,605.0 174.0,605.0" stroke="#8a8f98" fill="#eef0f3" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="240.7" y="656.3">Лит. А</tspan><tspan x="240.7" y="669.5">(цоколь А1,</tspan><tspan x="240.7" y="682.7">мансарда А2)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="327.4" y="658.0">а</tspan></text>
+<line x1="174.0" y1="593.0" x2="348.0" y2="593.0" stroke="#566573" stroke-width="1"/>
+<line x1="174.0" y1="596.0" x2="174.0" y2="590.0" stroke="#566573" stroke-width="1"/>
+<line x1="348.0" y1="596.0" x2="348.0" y2="590.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="261.0" y="599.0">8,70</tspan></text>
+<line x1="164.0" y1="734.0" x2="164.0" y2="605.0" stroke="#566573" stroke-width="1"/>
+<line x1="161.0" y1="734.0" x2="167.0" y2="734.0" stroke="#566573" stroke-width="1"/>
+<line x1="161.0" y1="605.0" x2="167.0" y2="605.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 157.0 669.5)"><tspan x="157.0" y="669.5">6,45</tspan></text>
+<line x1="254.0" y1="850.0" x2="254.0" y2="734.0" stroke="#566573" stroke-width="1"/>
+<line x1="251.0" y1="850.0" x2="257.0" y2="850.0" stroke="#566573" stroke-width="1"/>
+<line x1="251.0" y1="734.0" x2="257.0" y2="734.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 247.0 792.0)"><tspan x="247.0" y="792.0">≈5,8</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="250.0" y="335.6">Участок без построек.</tspan><tspan x="250.0" y="350.0">Верхний слой снят при выравнивании,</tspan><tspan x="250.0" y="364.4">стоит вода (нужен дренаж).</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="235.0" y="822.0">забор: металл на мет. столбах (по фасаду — ворота, калитка)</tspan></text>
+<rect x="70" y="960" width="22" height="14" stroke="#8a8f98" fill="#eef0f3" stroke-width="2"/>
+<text x="100" y="972" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">существующий дом, 2002 г. (по техпаспорту)</text>
+<rect x="70" y="982" width="22" height="14" stroke="#1c2833" fill="white" stroke-width="2"/>
+<text x="100" y="994" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">граница участка (схематично, уточнить топосъёмкой)</text>
+</svg>
