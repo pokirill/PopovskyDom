@@ -456,3 +456,48 @@ if __name__ == "__main__":
         plan_bylo(lv)
         plan_stalo(lv)
     razrez()
+
+
+# ---------------------------------------------------------------- v0.3: варианты компоновки
+def razrez_v03(variant):
+    """A — «флигель»: мансарда только над домом, пристройка одноэтажная со своей кровлей.
+    B — «компакт-мансарда»: мансарда над домом и пристройкой 3,5 м, второй свет."""
+    ttl = {"A": "Вариант A «Флигель» ≈150 м²\nмансарда только над домом (2 спальни по ≈15 м²), пристройка 4 м — одноэтажная, потолок по скатам",
+           "B": "Вариант B «Компакт-мансарда» ≈165 м²\nмансарда над домом и пристройкой 3,5 м (3 спальни по ≈15 м²), второй свет ≈5 м"}[variant]
+    g = Svg(19, 11, 40, margin=110, title=ttl, extra_h=90)
+    gl, L1, L2, L3 = 1.0, 0.0, 3.0, 6.1
+    d = 4.0 if variant == "A" else 3.5
+    hx0, hx1 = 1.0, 1.0 + HD
+    ex1 = hx1 + d
+    g.line(-0.5, gl, 18.5, gl, C["green"], 2, "8,4")
+    g.text(17.0, gl + 0.35, "земля", 10, C["green"], anchor="start")
+    g.rect(hx0, L1, hx1, L2, C["exist"], C["exist_fill"], 2)
+    g.text((hx0 + hx1) / 2, 1.6, "Ур.1 цоколь (пол −0,7)\nступени в пристройку — внутри цоколя", 9)
+    g.rect(hx0, L2, hx1, L3, C["exist"], C["exist_fill"], 2)
+    g.text((hx0 + hx1) / 2, 4.55, "Ур.2: кабинет" + ("-спальня 3" if variant == "A" else "-гостевая") + ",\nдуш+WC, парная", 9)
+    if variant == "A":
+        g.poly([(hx0 - 0.5, L3), (hx1 + 0.5, L3), ((hx0 + hx1) / 2, L3 + 3.2)], C["new"], C["new_fill"], 2)
+        g.text((hx0 + hx1) / 2, L3 + 1.1, "Ур.3: 2 спальни ≈15 + с/у", 9, C["new"], bold=True)
+        g.poly([(hx1, gl), (ex1, gl), (ex1, gl + 2.7), (ex1 + 0.4, gl + 2.6), (hx1, gl + 4.0)], C["new"], C["new_fill"], 2)
+        g.text((hx1 + ex1) / 2, gl + 1.4, "кухня-гостиная\nпотолок 2,8→4,0", 9, C["new"], bold=True)
+        g.text((hx1 + ex1) / 2, gl + 4.6, "своя односкатная кровля", 8, C["new"])
+    else:
+        g.rect(hx1, gl, ex1, L3, C["new"], C["new_fill"], 2)
+        g.text((hx1 + ex1) / 2, 3.8, "второй свет\n≈5 м", 9, C["new"], bold=True)
+        g.poly([(hx0 - 0.5, L3), (ex1 + 0.5, L3), ((hx0 + ex1) / 2, L3 + 3.5)], C["new"], C["new_fill"], 2)
+        g.text((hx0 + ex1) / 2, L3 + 1.1, "Ур.3: 3 спальни ≈15 + с/у + постирочная", 9, C["new"], bold=True)
+    g.rect(hx1, gl - 0.5, ex1, gl, C["new"], "none", 1.5, "4,3")
+    g.rect(hx0, -0.7, hx1, L1, C["demo"], "#fadbd8", 1.5, "4,3")
+    g.text((hx0 + hx1) / 2, -0.35, "усиление ФБС", 9, C["demo"])
+    g.rect(hx1 - 1.3, L1, hx1 - 0.2, gl, C["new"], "none", 1, "2,2")
+    for lvl, nm in ((L1, "±0,00"), (gl, "+1,00 земля"), (L2, "+3,00"), (L3, "+6,10")):
+        g.line(-0.4, lvl, hx0, lvl, C["dim"], 1)
+        g.text(-0.5, lvl, nm, 9, C["dim"], anchor="end")
+    g.text(hx0, -1.3, "ЮГ", 10, C["dim"])
+    g.text(ex1 + 1, -1.3, "СЕВЕР (сад)", 10, C["dim"])
+    g.save(f"razrez-v03{variant.lower()}.svg")
+
+
+if __name__ == "__main__":
+    razrez_v03("A")
+    razrez_v03("B")

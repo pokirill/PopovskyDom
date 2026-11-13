@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="750" viewBox="0 0 980 750">
+<rect width="100%" height="100%" fill="white"/>
+<text x="110" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Вариант A «Флигель» ≈150 м²</text>
+<text x="110" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">мансарда только над домом (2 спальни по ≈15 м²), пристройка 4 м — одноэтажная, потолок по скатам</text>
+<line x1="90.0" y1="510.0" x2="850.0" y2="510.0" stroke="#27ae60" stroke-width="2" stroke-dasharray="8,4"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#27ae60" text-anchor="start" dominant-baseline="middle"><tspan x="790.0" y="496.0">земля</tspan></text>
+<polygon points="150.0,550.0 408.0,550.0 408.0,430.0 150.0,430.0" stroke="#8a8f98" fill="#eef0f3" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="279.0" y="480.6">Ур.1 цоколь (пол −0,7)</tspan><tspan x="279.0" y="491.4">ступени в пристройку — внутри цоколя</tspan></text>
+<polygon points="150.0,430.0 408.0,430.0 408.0,306.0 150.0,306.0" stroke="#8a8f98" fill="#eef0f3" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="279.0" y="362.6">Ур.2: кабинет-спальня 3,</tspan><tspan x="279.0" y="373.4">душ+WC, парная</tspan></text>
+<polygon points="130.0,306.0 428.0,306.0 279.0,178.0" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="279.0" y="262.0">Ур.3: 2 спальни ≈15 + с/у</tspan></text>
+<polygon points="408.0,510.0 568.0,510.0 568.0,402.0 584.0,406.0 408.0,350.0" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="488.0" y="448.6">кухня-гостиная</tspan><tspan x="488.0" y="459.4">потолок 2,8→4,0</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="488.0" y="326.0">своя односкатная кровля</tspan></text>
+<polygon points="408.0,530.0 568.0,530.0 568.0,510.0 408.0,510.0" stroke="#d35400" fill="none" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
+<polygon points="150.0,578.0 408.0,578.0 408.0,550.0 150.0,550.0" stroke="#c0392b" fill="#fadbd8" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#c0392b" text-anchor="middle" dominant-baseline="middle"><tspan x="279.0" y="564.0">усиление ФБС</tspan></text>
+<polygon points="356.0,550.0 400.0,550.0 400.0,510.0 356.0,510.0" stroke="#d35400" fill="none" stroke-width="1" stroke-dasharray="2,2" fill-opacity="1"/>
+<line x1="94.0" y1="550.0" x2="150.0" y2="550.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#566573" text-anchor="end" dominant-baseline="middle"><tspan x="90.0" y="550.0">±0,00</tspan></text>
+<line x1="94.0" y1="510.0" x2="150.0" y2="510.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#566573" text-anchor="end" dominant-baseline="middle"><tspan x="90.0" y="510.0">+1,00 земля</tspan></text>
+<line x1="94.0" y1="430.0" x2="150.0" y2="430.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#566573" text-anchor="end" dominant-baseline="middle"><tspan x="90.0" y="430.0">+3,00</tspan></text>
+<line x1="94.0" y1="306.0" x2="150.0" y2="306.0" stroke="#566573" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#566573" text-anchor="end" dominant-baseline="middle"><tspan x="90.0" y="306.0">+6,10</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="150.0" y="602.0">ЮГ</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="608.0" y="602.0">СЕВЕР (сад)</tspan></text>
+</svg>
