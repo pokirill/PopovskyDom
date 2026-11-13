@@ -20,11 +20,11 @@
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 151.0 628.0)"><tspan x="151.0" y="628.0">навес</tspan></text>
 <polygon points="174.0,734.0 307.4,734.0 307.4,710.2 348.0,710.2 348.0,605.0 174.0,605.0" stroke="#8a8f98" fill="#eef0f3" stroke-width="2" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="240.7" y="656.3">ДОМ</tspan><tspan x="240.7" y="669.5">(существующий,</tspan><tspan x="240.7" y="682.7">реконструкция)</tspan></text>
-<polygon points="174.0,605.0 348.0,605.0 348.0,525.0 174.0,525.0" stroke="#d35400" fill="#fdebd0" stroke-width="2.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="261.0" y="551.8">ПРИСТРОЙКА 4 м</tspan><tspan x="261.0" y="565.0">кухня-гостиная,</tspan><tspan x="261.0" y="578.2">второй свет</tspan></text>
-<polygon points="174.0,525.0 348.0,525.0 348.0,481.0 174.0,481.0" stroke="#27ae60" fill="#d5f5e3" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="261.0" y="503.0">открытая терраса</tspan></text>
-<polygon points="348.0,738.0 388.0,738.0 388.0,525.0 348.0,525.0" stroke="#27ae60" fill="none" stroke-width="2" stroke-dasharray="6,4" fill-opacity="1"/>
+<polygon points="174.0,605.0 348.0,605.0 348.0,535.0 174.0,535.0" stroke="#d35400" fill="#fdebd0" stroke-width="2.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="261.0" y="556.8">ПРИСТРОЙКА 3,5 м</tspan><tspan x="261.0" y="570.0">кухня-гостиная,</tspan><tspan x="261.0" y="583.2">второй свет</tspan></text>
+<polygon points="174.0,535.0 348.0,535.0 348.0,491.0 174.0,491.0" stroke="#27ae60" fill="#d5f5e3" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="261.0" y="513.0">открытая терраса</tspan></text>
+<polygon points="348.0,738.0 388.0,738.0 388.0,535.0 348.0,535.0" stroke="#27ae60" fill="none" stroke-width="2" stroke-dasharray="6,4" fill-opacity="1"/>
 <polygon points="348.0,599.0 388.0,599.0 388.0,539.0 348.0,539.0" stroke="#2e86c1" fill="#d6eaf8" stroke-width="2" stroke-dasharray="5,3" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#2e86c1" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="368.0" y="558.2">ВХОД</tspan><tspan x="368.0" y="569.0">тамбур-</tspan><tspan x="368.0" y="579.8">прихожая</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="368.0" y="668.6">навес</tspan><tspan x="368.0" y="679.4">2 м</tspan></text>

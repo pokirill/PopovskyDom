@@ -3,8 +3,8 @@
 <text x="70" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Уровень 2 — СТАЛО</text>
 <text x="70" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">бывший 1 этаж + второй свет</text>
 <polygon points="70.0,677.5 370.1,677.5 370.1,624.0 461.5,624.0 461.5,387.2 70.0,387.2" stroke="#8a8f98" fill="#eef0f3" stroke-width="3" fill-opacity="1"/>
-<polygon points="70.0,387.2 461.5,387.2 461.5,207.3 70.0,207.3" stroke="#d35400" fill="#fef5e7" stroke-width="3" stroke-dasharray="8,4" fill-opacity="1"/>
-<polygon points="70.0,387.2 151.0,387.2 151.0,207.3 70.0,207.3" stroke="#d35400" fill="none" stroke-width="1.5" stroke-dasharray="3,3" fill-opacity="1"/>
+<polygon points="70.0,387.2 461.5,387.2 461.5,229.8 70.0,229.8" stroke="#d35400" fill="#fef5e7" stroke-width="3" stroke-dasharray="8,4" fill-opacity="1"/>
+<polygon points="70.0,387.2 151.0,387.2 151.0,229.8 70.0,229.8" stroke="#d35400" fill="none" stroke-width="1.5" stroke-dasharray="3,3" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 110.5 297.2)"><tspan x="110.5" y="292.4">опция: галерея-библиотека</tspan><tspan x="110.5" y="302.1">на +0,7 от пола ур.2</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="304.0" y="281.1">ВТОРОЙ СВЕТ</tspan><tspan x="304.0" y="295.4">(≈5 м от пола кухни)</tspan></text>
 <polygon points="87.1,660.4 245.1,660.4 245.1,410.2 87.1,410.2" stroke="#8a8f98" fill="none" stroke-width="2" fill-opacity="1"/>
@@ -25,7 +25,7 @@
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="415.6" y="563.5">душ +</tspan><tspan x="415.6" y="575.5">WC</tspan></text>
 <line x1="461.5" y1="650.5" x2="461.5" y2="605.5" stroke="white" stroke-width="6"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#c0392b" text-anchor="middle" dominant-baseline="middle"><tspan x="506.5" y="623.2">выход под навес</tspan><tspan x="506.5" y="632.8">(крыльцо ≈1,9 м!)</tspan></text>
-<polygon points="461.5,686.5 551.5,686.5 551.5,207.3 461.5,207.3" stroke="#27ae60" fill="none" stroke-width="2" stroke-dasharray="6,4" fill-opacity="1"/>
+<polygon points="461.5,686.5 551.5,686.5 551.5,229.8 461.5,229.8" stroke="#27ae60" fill="none" stroke-width="2" stroke-dasharray="6,4" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="506.5" y="452.5">навес</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#c0392b" text-anchor="middle" dominant-baseline="middle"><tspan x="265.8" y="718.0">печь демонтировать; веранда «а» → тёплая (душ+WC, парная)</tspan></text>
 <rect x="70" y="767.5" width="22" height="14" stroke="#8a8f98" fill="#eef0f3" stroke-width="2"/>
