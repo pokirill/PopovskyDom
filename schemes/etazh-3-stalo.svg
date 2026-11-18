@@ -1,30 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="738" height="903" viewBox="0 0 738 903">
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="923" viewBox="0 0 738 923">
 <rect width="100%" height="100%" fill="white"/>
 <text x="110" y="28" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1c2833">Уровень 3 — СТАЛО (v0.4, схематично)</text>
 <text x="110" y="50" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1c2833">мансарда над домом и пристройкой — спальный этаж</text>
 <polygon points="110.0,623.0 501.5,623.0 501.5,152.8 110.0,152.8" stroke="#d35400" fill="#fdebd0" stroke-width="3" fill-opacity="1"/>
 <line x1="305.8" y1="623.0" x2="305.8" y2="152.8" stroke="#d35400" stroke-width="1" stroke-dasharray="10,5"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="start" dominant-baseline="middle"><tspan x="314.8" y="164.0">конёк</tspan></text>
-<polygon points="240.5,449.8 388.6,449.8 388.6,338.1 240.5,338.1" stroke="#566573" fill="white" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="314.8" y="388.7">проём лестницы</tspan><tspan x="314.8" y="398.3">(ограждение)</tspan></text>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="7" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="218.0" y="423.1">← выход</tspan><tspan x="218.0" y="431.5">с лестн.</tspan></text>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="218.0" y="371.0">холл</tspan></text>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="314.8" y="314.8">холл</tspan></text>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="411.5" y="371.0">холл</tspan></text>
-<polygon points="123.5,609.5 303.5,609.5 303.5,454.2 123.5,454.2" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="213.5" y="527.0">спальня 1 ≈14</tspan><tspan x="213.5" y="539.0">(родители)</tspan></text>
-<polygon points="310.2,609.5 488.0,609.5 488.0,454.2 310.2,454.2" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="398.0" y="533.0">спальня 2 ≈14</tspan></text>
-<polygon points="123.5,447.5 195.5,447.5 195.5,338.1 123.5,338.1" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="159.5" y="388.7">шкафы /</tspan><tspan x="159.5" y="398.3">хранение</tspan></text>
-<polygon points="434.0,447.5 488.0,447.5 488.0,338.1 434.0,338.1" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="461.0" y="388.7">шкафы /</tspan><tspan x="461.0" y="398.3">хранение</tspan></text>
-<polygon points="123.5,294.5 303.5,294.5 303.5,166.3 123.5,166.3" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="213.5" y="225.5">спальня 3 ≈12</tspan><tspan x="213.5" y="237.5">(сестра с мужем)</tspan></text>
+<polygon points="200.0,466.4 429.5,466.4 429.5,297.6 200.0,297.6" stroke="#d4ac0d" fill="#fff7d6" stroke-width="1.5" fill-opacity="1"/>
+<polygon points="240.5,425.9 388.6,425.9 388.6,338.1 240.5,338.1" stroke="#566573" fill="white" stroke-width="1.5" stroke-dasharray="4,3" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="314.8" y="377.5">проём лестницы</tspan><tspan x="314.8" y="387.1">(ограждение)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="7" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="220.2" y="405.1">← выход</tspan><tspan x="220.2" y="413.4">с лестн.</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="314.8" y="446.2">ХОЛЛ → спальни 1 и 2</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="314.8" y="317.9">ХОЛЛ → спальня 3, с/у, постирочная</tspan></text>
+<polygon points="123.5,609.5 303.5,609.5 303.5,470.0 195.5,470.0 195.5,384.5 123.5,384.5" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="213.5" y="531.5">спальня 1 ≈15</tspan><tspan x="213.5" y="543.5">(родители)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="159.5" y="427.3">шкаф</tspan></text>
+<polygon points="310.2,609.5 488.0,609.5 488.0,384.5 434.0,384.5 434.0,470.0 310.2,470.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="398.0" y="537.5">спальня 2 ≈14</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="461.0" y="427.3">шкаф</tspan></text>
+<line x1="227.0" y1="466.4" x2="263.0" y2="466.4" stroke="white" stroke-width="5"/>
+<line x1="227.0" y1="466.4" x2="263.0" y2="466.4" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
+<line x1="344.0" y1="466.4" x2="380.0" y2="466.4" stroke="white" stroke-width="5"/>
+<line x1="344.0" y1="466.4" x2="380.0" y2="466.4" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
+<polygon points="123.5,377.8 195.5,377.8 195.5,294.5 303.5,294.5 303.5,166.3 123.5,166.3" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="213.5" y="221.0">спальня 3 ≈14</tspan><tspan x="213.5" y="233.0">(сестра с мужем)</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="159.5" y="335.0">шкаф</tspan></text>
 <polygon points="310.2,294.5 398.0,294.5 398.0,166.3 310.2,166.3" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="353.9" y="220.7">с/у</tspan><tspan x="353.9" y="231.5">(душ)</tspan><tspan x="353.9" y="242.3">≈5</tspan></text>
-<polygon points="404.8,294.5 488.0,294.5 488.0,166.3 404.8,166.3" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="446.1" y="217.1">гардероб-</tspan><tspan x="446.1" y="226.7">ная-</tspan><tspan x="446.1" y="236.3">постироч-</tspan><tspan x="446.1" y="245.9">ная ≈5</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="353.9" y="216.2">с/у</tspan><tspan x="353.9" y="227.0">(душ)</tspan><tspan x="353.9" y="237.8">≈5</tspan></text>
+<polygon points="404.8,294.5 434.0,294.5 434.0,377.8 488.0,377.8 488.0,166.3 404.8,166.3" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="446.1" y="212.6">гардероб-</tspan><tspan x="446.1" y="222.2">ная-</tspan><tspan x="446.1" y="231.8">постироч-</tspan><tspan x="446.1" y="241.4">ная ≈6</tspan></text>
+<line x1="227.0" y1="297.6" x2="263.0" y2="297.6" stroke="white" stroke-width="5"/>
+<line x1="227.0" y1="297.6" x2="263.0" y2="297.6" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
+<line x1="335.0" y1="297.6" x2="371.0" y2="297.6" stroke="white" stroke-width="5"/>
+<line x1="335.0" y1="297.6" x2="371.0" y2="297.6" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
+<line x1="407.0" y1="297.6" x2="427.2" y2="297.6" stroke="white" stroke-width="5"/>
+<line x1="407.0" y1="297.6" x2="427.2" y2="297.6" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
 <polygon points="177.5,628.0 231.5,628.0 231.5,618.1 177.5,618.1" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
 <line x1="177.5" y1="623.0" x2="231.5" y2="623.0" stroke="#1f618d" stroke-width="1"/>
 <polygon points="380.0,628.0 434.0,628.0 434.0,618.1 380.0,618.1" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
@@ -35,12 +44,11 @@
 <line x1="330.5" y1="152.8" x2="375.5" y2="152.8" stroke="#1f618d" stroke-width="1"/>
 <polygon points="420.5,157.7 465.5,157.7 465.5,147.8 420.5,147.8" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
 <line x1="420.5" y1="152.8" x2="465.5" y2="152.8" stroke="#1f618d" stroke-width="1"/>
-<polygon points="254.0,332.8 285.5,332.8 285.5,301.2 254.0,301.2" stroke="#1f618d" fill="white" stroke-width="1.5" stroke-dasharray="4,2" fill-opacity="1"/>
-<polygon points="344.0,332.8 375.5,332.8 375.5,301.2 344.0,301.2" stroke="#1f618d" fill="white" stroke-width="1.5" stroke-dasharray="4,2" fill-opacity="1"/>
+<polygon points="206.8,371.0 233.8,371.0 233.8,339.5 206.8,339.5" stroke="#1f618d" fill="white" stroke-width="1.5" stroke-dasharray="4,2" fill-opacity="1"/>
+<polygon points="395.8,371.0 422.8,371.0 422.8,339.5 395.8,339.5" stroke="#1f618d" fill="white" stroke-width="1.5" stroke-dasharray="4,2" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1f618d" text-anchor="middle" dominant-baseline="middle"><tspan x="305.8" y="643.2">окна во фронтоне (улица)</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1f618d" text-anchor="middle" dominant-baseline="middle"><tspan x="305.8" y="132.5">окна во фронтоне (сад)</tspan></text>
-<polygon points="110.0,623.0 501.5,623.0 501.5,332.8 110.0,332.8" stroke="#8a8f98" fill="none" stroke-width="1.5" stroke-dasharray="4,4" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="305.8" y="672.5">конёк С–Ю, фронтоны на улицу и в сад; колено 1,2–1,5 м — уточнит архитектор</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="305.8" y="672.5">конёк С–Ю, фронтоны на улицу и в сад; колено 1,2–1,5 м; шкафы — в низких зонах у колена</tspan></text>
 <line x1="83.0" y1="623.0" x2="83.0" y2="152.8" stroke="#566573" stroke-width="1"/>
 <line x1="76.2" y1="623.0" x2="89.8" y2="623.0" stroke="#566573" stroke-width="1"/>
 <line x1="76.2" y1="152.8" x2="89.8" y2="152.8" stroke="#566573" stroke-width="1"/>
@@ -57,4 +65,6 @@
 <text x="140" y="853.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">окно (пунктир — мансардное окно в скате)</text>
 <rect x="110" y="863.0" width="22" height="14" stroke="#27ae60" fill="#d5f5e3" stroke-width="2"/>
 <text x="140" y="875.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">дверь наружу</text>
+<rect x="110" y="885.0" width="22" height="14" stroke="#d4ac0d" fill="#fff7d6" stroke-width="2"/>
+<text x="140" y="897.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">холл / коридор (пунктир на стене — дверь)</text>
 </svg>

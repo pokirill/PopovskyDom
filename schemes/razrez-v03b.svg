@@ -10,8 +10,10 @@
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="279.0" y="362.6">Ур.2: кабинет-гостевая,</tspan><tspan x="279.0" y="373.4">душ+WC, парная</tspan></text>
 <polygon points="408.0,510.0 568.0,510.0 568.0,306.0 408.0,306.0" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="508.0" y="392.6">второй свет</tspan><tspan x="508.0" y="403.4">≈5 м</tspan></text>
-<polygon points="408.0,440.0 456.0,440.0 456.0,430.0 408.0,430.0" stroke="#d35400" fill="#d35400" stroke-width="1" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="7" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="432.0" y="455.8">галерея ±0 ур.2,</tspan><tspan x="432.0" y="464.2">под ней ≈1,75</tspan></text>
+<polygon points="408.0,440.0 556.0,440.0 556.0,430.0 408.0,430.0" stroke="#d35400" fill="none" stroke-width="1" stroke-dasharray="3,2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="7" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="488.0" y="455.8">галерея над кухней, под ней:</tspan><tspan x="488.0" y="464.2">±0 → 1,75 · +0,5 → 2,25 · +0,7 → 2,45</tspan></text>
+<polygon points="564.8,506.0 571.2,506.0 571.2,322.0 564.8,322.0" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1f618d" text-anchor="start" dominant-baseline="middle"><tspan x="580.0" y="403.2">высокое окно</tspan><tspan x="580.0" y="412.8">на всю высоту</tspan></text>
 <polygon points="150.0,306.0 568.0,306.0 568.0,146.0 150.0,146.0" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
 <line x1="150.0" y1="246.0" x2="568.0" y2="246.0" stroke="#d35400" stroke-width="1" stroke-dasharray="4,3"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="359.0" y="196.6">Ур.3: 3 спальни + с/у + гардеробная-постирочная</tspan><tspan x="359.0" y="207.4">фронтоны: юг (улица) и север (сад), конёк ≈+10,1</tspan></text>
