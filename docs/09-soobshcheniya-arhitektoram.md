@@ -6,7 +6,7 @@
 
 | Файл | Где взять |
 |---|---|
-| ТЗ | PDF без бюджета (TZ-rekonstrukciya-doma.pdf) — цены пусть называют сами |
+| ТЗ со схемами | [TZ-perestroyka-doma.pdf](TZ-perestroyka-doma.pdf) — без бюджета, цены пусть называют сами |
 | Техпаспорт 2016 | [`source/tehpasport-2016/`](../source/tehpasport-2016) |
 | Схемы «было/стало» | [`schemes/png/`](../schemes/png): etazh-1-bylo, etazh-1-stalo, etazh-2-bylo, etazh-2-stalo, etazh-3-stalo, razrez-v03b, genplan-stalo |
 
