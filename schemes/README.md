@@ -38,4 +38,6 @@
 |---|---|
 | ![](razrez-v03a.svg) | ![](razrez-v03b.svg) |
 
+PNG для отправки в мессенджеры — в [`png/`](png). Перегенерация после изменения SVG: `for f in schemes/*.svg; do rsvg-convert -w 1600 -b white "$f" -o schemes/png/$(basename "$f" .svg).png; done`.
+
 Исходные эскизы владельца — [`../source/eskizy/`](../source/eskizy).
