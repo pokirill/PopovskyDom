@@ -44,7 +44,7 @@
 <polygon points="121.2,328.2 193.2,328.2 193.2,283.2 121.2,283.2" stroke="#d35400" fill="none" stroke-width="1" stroke-dasharray="3,2" fill-opacity="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="7" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="157.2" y="305.8">шкаф</tspan></text>
 <polygon points="121.2,274.2 182.0,274.2 182.0,164.0 121.2,164.0" stroke="#d35400" fill="none" stroke-width="1.5" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#d35400" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 151.4 215.8)"><tspan x="151.4" y="215.8">кухня под галереей</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle" transform="rotate(-90 151.4 215.8)"><tspan x="151.4" y="215.8">кухня под галереей, h≈2,45</tspan></text>
 <polygon points="110.0,332.8 191.0,332.8 191.0,152.8 110.0,152.8" stroke="#d35400" fill="none" stroke-width="1" stroke-dasharray="2,4" fill-opacity="1"/>
 <ellipse cx="249.5" cy="213.5" rx="45.0" ry="45.0" stroke="#d4ac0d" fill="#fcf3cf" stroke-width="1.5"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="249.5" y="208.1">обеденная</tspan><tspan x="249.5" y="218.9">зона</tspan></text>

@@ -383,7 +383,7 @@ def plan_stalo(level):
         g.rect(0.25, ey + 0.1, 1.85, ey + 1.1, C["new"], "none", 1, "3,2")
         g.text(1.05, ey + 0.6, "шкаф", 7, C["new"])
         g.rect(0.25, ey + 1.3, 1.6, top - 0.25, C["new"], "none", 1.5)
-        g.text(0.92, ey + 2.6, "кухня под галереей", 9, C["new"], rotate=-90)
+        g.text(0.92, ey + 2.6, "кухня под галереей, h≈2,45", 8, C["new"], rotate=-90)
         g.rect(0, ey, 1.8, top, C["new"], "none", 1, "2,4")
         g.ellipse(3.1, ey + 2.65, 1.0, 1.0, C["path"], C["path_fill"], 1.5)
         g.text(3.1, ey + 2.65, "обеденная\nзона", 9)
@@ -410,7 +410,7 @@ def plan_stalo(level):
         g.rect(0, ey, HW, top, C["new"], "#fef5e7", 3, "8,4")
         # галерея вдоль западной стены, над кухней
         g.rect(0.0, ey, 1.8, top, C["new"], C["new_fill"], 2)
-        g.text(0.9, ey + 2.3, "ГАЛЕРЕЯ\nнад кухней\n\nотметка —\nрешить:\n±0 / +0,5\n/ +0,7", 8, C["new"], bold=True)
+        g.text(0.9, ey + 2.3, "ГАЛЕРЕЯ-\nбиблиотека\nнад кухней\n\n+0,7 от пола\nур.2\n(4 ступени\nиз холла)", 8, C["new"], bold=True)
         g.text(3.3, ey + 0.55, "← лестница с ур.1", 8, C["new"])
         g.text(5.2, ey + 2.0, "ВТОРОЙ СВЕТ\n(≈5 м от пола кухни)", 12, C["new"], bold=True)
         g.rect(3.95, top - 0.7, 4.75, top - 0.1, C["demo"], "#fadbd8", 1.5)
@@ -451,6 +451,8 @@ def plan_stalo(level):
         g.door(6.79, 3.55, 6.79, 4.25)
         g.door(7.3, 4.42, 8.0, 4.42)
         g.door(7.3, 1.95, 8.0, 1.95)
+        g.win(HW, 2.4, HW, 3.3, "door")
+        g.text(HW + 1.0, 2.85, "выход под навес\n(крыльцо ≈1,9 м)", 7, C["green"])
         # окна
         g.win(1.13, 0, 2.26, 0)
         g.win(4.51, 0, 5.54, 0)
@@ -461,7 +463,7 @@ def plan_stalo(level):
         g.text(1.7, -0.45, "кабинет", 8, C["win"])
         g.text(7.7, -0.45, "окно парной", 8, C["win"])
         g.rect(HW, -0.2, HW + 2.0, top, C["green"], "none", 2, "6,4")
-        g.text(HW + 1.0, 3.0, "навес", 9)
+        g.text(HW + 1.0, 5.0, "навес", 9)
         g.text(HW / 2, -1.1, "печь демонтировать; веранда «а» → тёплая; угол пристроить (общий фундамент)", 11, C["demo"])
     else:
         g.rect(0, 0, HW, top, C["new"], C["new_fill"], 3)
@@ -592,8 +594,8 @@ def razrez_v03(variant):
     else:
         g.rect(hx1, gl, ex1, L3, C["new"], C["new_fill"], 2)
         g.text((hx1 + ex1) / 2 + 0.5, 3.8, "второй свет\n≈5 м", 9, C["new"], bold=True)
-        g.rect(hx1, L2 - 0.25, ex1 - 0.3, L2, C["new"], "none", 1, "3,2")
-        g.text((hx1 + ex1) / 2, L2 - 0.75, "галерея над кухней, под ней:\n±0 → 1,75 · +0,5 → 2,25 · +0,7 → 2,45", 7, C["new"])
+        g.rect(hx1, L2 + 0.45, ex1 - 0.3, L2 + 0.7, C["new"], "none", 1, "3,2")
+        g.text((hx1 + ex1) / 2, L2 - 0.75, "галерея над кухней +0,7 от ур.2:\nпод ней ≈2,45, над ней ≈2,15", 7, C["new"])
         g.rect(ex1 - 0.08, gl + 0.1, ex1 + 0.08, L3 - 0.4, C["win"], "white", 2)
         g.text(ex1 + 0.3, (gl + L3) / 2, "высокое окно\nна всю высоту", 8, C["win"], anchor="start")
         g.rect(hx0, L3, ex1, L3 + 4.0, C["new"], C["new_fill"], 2)

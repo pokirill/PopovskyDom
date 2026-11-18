@@ -6,7 +6,7 @@
 <polygon points="410.1,623.0 501.5,623.0 501.5,569.5 410.1,569.5" stroke="#d35400" fill="#fdebd0" stroke-width="2.5" fill-opacity="1"/>
 <polygon points="110.0,332.8 501.5,332.8 501.5,152.8 110.0,152.8" stroke="#d35400" fill="#fef5e7" stroke-width="3" stroke-dasharray="8,4" fill-opacity="1"/>
 <polygon points="110.0,332.8 191.0,332.8 191.0,152.8 110.0,152.8" stroke="#d35400" fill="#fdebd0" stroke-width="2" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="150.5" y="200.4">ГАЛЕРЕЯ</tspan><tspan x="150.5" y="210.0">над кухней</tspan><tspan x="150.5" y="219.6"></tspan><tspan x="150.5" y="229.2">отметка —</tspan><tspan x="150.5" y="238.8">решить:</tspan><tspan x="150.5" y="248.4">±0 / +0,5</tspan><tspan x="150.5" y="258.0">/ +0,7</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="150.5" y="195.7">ГАЛЕРЕЯ-</tspan><tspan x="150.5" y="205.2">библиотека</tspan><tspan x="150.5" y="214.8">над кухней</tspan><tspan x="150.5" y="224.4"></tspan><tspan x="150.5" y="234.1">+0,7 от пола</tspan><tspan x="150.5" y="243.7">ур.2</tspan><tspan x="150.5" y="253.2">(4 ступени</tspan><tspan x="150.5" y="262.9">из холла)</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#d35400" text-anchor="middle" dominant-baseline="middle"><tspan x="258.5" y="308.0">← лестница с ур.1</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#d35400" text-anchor="middle" dominant-baseline="middle" font-weight="bold"><tspan x="344.0" y="235.6">ВТОРОЙ СВЕТ</tspan><tspan x="344.0" y="250.0">(≈5 м от пола кухни)</tspan></text>
 <polygon points="287.8,184.2 323.8,184.2 323.8,157.3 287.8,157.3" stroke="#c0392b" fill="#fadbd8" stroke-width="1.5" fill-opacity="1"/>
@@ -69,6 +69,9 @@
 <line x1="438.5" y1="424.1" x2="470.0" y2="424.1" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
 <line x1="438.5" y1="535.2" x2="470.0" y2="535.2" stroke="white" stroke-width="5"/>
 <line x1="438.5" y1="535.2" x2="470.0" y2="535.2" stroke="#d4ac0d" stroke-width="1.5" stroke-dasharray="2,2"/>
+<polygon points="496.6,515.0 506.4,515.0 506.4,474.5 496.6,474.5" stroke="#27ae60" fill="#d5f5e3" stroke-width="2" fill-opacity="1"/>
+<line x1="501.5" y1="515.0" x2="501.5" y2="474.5" stroke="#27ae60" stroke-width="1"/>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="7" fill="#27ae60" text-anchor="middle" dominant-baseline="middle"><tspan x="546.5" y="490.6">выход под навес</tspan><tspan x="546.5" y="499.0">(крыльцо ≈1,9 м)</tspan></text>
 <polygon points="160.8,628.0 211.7,628.0 211.7,618.1 160.8,618.1" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
 <line x1="160.8" y1="623.0" x2="211.7" y2="623.0" stroke="#1f618d" stroke-width="1"/>
 <polygon points="312.9,628.0 359.3,628.0 359.3,618.1 312.9,618.1" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
@@ -83,7 +86,7 @@
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1f618d" text-anchor="middle" dominant-baseline="middle"><tspan x="186.5" y="643.2">кабинет</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="8" fill="#1f618d" text-anchor="middle" dominant-baseline="middle"><tspan x="456.5" y="643.2">окно парной</tspan></text>
 <polygon points="501.5,632.0 591.5,632.0 591.5,152.8 501.5,152.8" stroke="#27ae60" fill="none" stroke-width="2" stroke-dasharray="6,4" fill-opacity="1"/>
-<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="546.5" y="488.0">навес</tspan></text>
+<text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="546.5" y="398.0">навес</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="11" fill="#c0392b" text-anchor="middle" dominant-baseline="middle"><tspan x="305.8" y="672.5">печь демонтировать; веранда «а» → тёплая; угол пристроить (общий фундамент)</tspan></text>
 <rect x="110" y="753.0" width="22" height="14" stroke="#8a8f98" fill="#eef0f3" stroke-width="2"/>
 <text x="140" y="765.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#1c2833" text-anchor="start">существующие стены (оставляем)</text>
