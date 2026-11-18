@@ -22,6 +22,20 @@
 <line x1="378.2" y1="378.2" x2="452.5" y2="378.2" stroke="#8a8f98" stroke-width="1"/>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="9" fill="#1c2833" text-anchor="middle" dominant-baseline="middle"><tspan x="415.6" y="362.5">лестница</tspan></text>
 <text font-family="DejaVu Sans, Arial, sans-serif" font-size="10" fill="#566573" text-anchor="middle" dominant-baseline="middle"><tspan x="416.5" y="607.8">вход</tspan></text>
+<polygon points="124.9,347.2 175.8,347.2 175.8,337.3 124.9,337.3" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<line x1="124.9" y1="342.2" x2="175.8" y2="342.2" stroke="#1f618d" stroke-width="1"/>
+<polygon points="283.8,347.2 333.2,347.2 333.2,337.3 283.8,337.3" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<line x1="283.8" y1="342.2" x2="333.2" y2="342.2" stroke="#1f618d" stroke-width="1"/>
+<polygon points="120.8,637.4 171.7,637.4 171.7,627.6 120.8,627.6" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<line x1="120.8" y1="632.5" x2="171.7" y2="632.5" stroke="#1f618d" stroke-width="1"/>
+<polygon points="272.9,637.4 319.3,637.4 319.3,627.6 272.9,627.6" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<line x1="272.9" y1="632.5" x2="319.3" y2="632.5" stroke="#1f618d" stroke-width="1"/>
+<polygon points="65.0,477.3 75.0,477.3 75.0,427.3 65.0,427.3" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<line x1="70.0" y1="477.3" x2="70.0" y2="427.3" stroke="#1f618d" stroke-width="1"/>
+<polygon points="456.6,472.7 466.4,472.7 466.4,448.0 456.6,448.0" stroke="#1f618d" fill="white" stroke-width="2" fill-opacity="1"/>
+<line x1="461.5" y1="472.7" x2="461.5" y2="448.0" stroke="#1f618d" stroke-width="1"/>
+<polygon points="396.2,583.9 436.8,583.9 436.8,574.0 396.2,574.0" stroke="#27ae60" fill="#d5f5e3" stroke-width="2" fill-opacity="1"/>
+<line x1="396.2" y1="579.0" x2="436.8" y2="579.0" stroke="#27ae60" stroke-width="1"/>
 <line x1="70.0" y1="310.8" x2="461.5" y2="310.8" stroke="#566573" stroke-width="1"/>
 <line x1="70.0" y1="317.5" x2="70.0" y2="304.0" stroke="#566573" stroke-width="1"/>
 <line x1="461.5" y1="317.5" x2="461.5" y2="304.0" stroke="#566573" stroke-width="1"/>
